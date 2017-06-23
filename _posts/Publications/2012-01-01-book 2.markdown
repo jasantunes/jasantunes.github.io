@@ -1,0 +1,11 @@
+---
+layout: default
+img: vulnerability_assessment_through_attack_injection.jpg
+category: Publications
+title: Vulnerability Assessment Through Attack Injection
+description: |
+---
+
+Our reliance on computer systems for everyday life activities has increased over the years as more and more tasks are accomplished with their help. The increasing complexity of the problems they address also requires the development of more elaborated solutions. So, applications tend to become larger and more complex. On the other hand, the ever present tradeoff between time to deployment and thorough testing impacts the quality of the software. Hence, applications tend to be released with little testing and software bugs are continuously detected afterwards, resulting in security vulnerabilities that can be exploited by malicious adversaries and compromise the systems' security. The discovery of security vulnerabilities is then a valuable asset in the development of dependable systems. This book presents a methodology based on fault injection that uses to network attacks to assess the presence of vulnerabilities in servers. Attack injection emulates the behavior of an adversary by injecting attacks to trigger and detect abnormal behavior in network servers.
+
+Web: [Amazon](http://www.amazon.com/dp/3639201787), VDM Verlag, ISBN-13: 978-3639201789, 2009.

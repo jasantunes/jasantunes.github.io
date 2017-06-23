@@ -1,0 +1,11 @@
+---
+layout: default
+img: entelo.jpg
+category: Professional
+title: Entelo
+description: |
+---
+  Since February, 2017.
+
+  Senior Software Engineer at [Entelo](http://www.entelo.com/") (San Francisco, CA)
+  (Ruby, Rails).

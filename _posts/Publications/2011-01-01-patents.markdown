@@ -1,0 +1,11 @@
+---
+layout: default
+img:
+category: Publications
+title: Patents
+description: |
+---
+
+
+- [Monitoring Voice-Over-IP Performance Over The Internet](), Ricardo Oliveira and Joao Antunes, US Patent Application 15/153,642, filed May, 2016, Patent Pending.
+- [Estimating Network Capacity And Network Bandwidth Without Server Instrumentation](http://patft1.uspto.gov/netacgi/nph-Parser?patentnumber=9503384), Ricardo Oliveira and Joao Antunes, US Patent 9,503,384, filed Oct. 2014, and issued Nov. 2016.

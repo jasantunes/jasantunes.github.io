@@ -1,0 +1,15 @@
+---
+layout: default
+img:
+category: Academic
+title: AJECT
+description:
+---
+2005–2007
+
+Junior Researcher at AJECT
+
+Attack Injection on Software Components (FCT, funding: 48.5k €); Development of a new methodology for the automatic discovery of security vulnerabilities in network servers (Java/C++).
+
+Web: [http://aject.di.fc.ul.pt](http://aject.di.fc.ul.pt)
+

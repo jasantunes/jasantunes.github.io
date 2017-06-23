@@ -1,0 +1,17 @@
+---
+layout: default
+img:
+category: Academic
+title: DIVERSE
+description: |
+---
+2010–2012
+
+Researcher at DIVERSE
+
+Diversity for Intrusion Tolerant Systems (FCT, funding: 88.5k &euro;); Designed the methodology and implemented a tool to evaluate (and solve) incompatibilities in using diversity in replicated servers (Java).
+
+Web: [http://www.di.fc.ul.pt/~nuno/projects/diverse](http://www.di.fc.ul.pt/~nuno/projects/diverse)
+
+
+
