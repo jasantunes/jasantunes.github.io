@@ -7,6 +7,7 @@ description: |
 
 ![Joao Antunes](img/me.jpg){:class="img-responsive img-circle"}
 
-I am Java/C++ software engineer with a PhD in security and dependability of network systems and over seven years of experience in pan-european research projects. I am the author of several international research papers, two patents in network performance monitoring (one pending approval), and two books on network attack injection.
+I am software engineer with a PhD in security and dependability of network systems and over seven years of experience in pan-european research projects. I am the author of several international research papers, two patents in network performance monitoring (one pending approval), and two books on network attack injection.
 
-I am an early employee at ThousandEyes in San Francisco, CA, where I worked as a backend software engineer and am responsible for developing and maintaining a network probing library that is at the core of the network measurements done by hundreds of agents across the Internet, including latency, packet loss, path trace, available bandwidth, capacity, and VoIP.
+For the past five years I have been working with a broad full stack technology stack at exciting SaaS startups in San Francisco, CA, namely C++, Ruby, Python, Rails, Redis, Elasticsearch, MySql, Postgres, Kafka, Docker, Amazon AWS, etc.
+
