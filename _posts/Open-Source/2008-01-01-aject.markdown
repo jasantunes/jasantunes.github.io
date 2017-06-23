@@ -1,6 +1,5 @@
 ---
 layout: default
-img: thousandeyes.png
 category: Open-Source
 title: Aject
 description: |

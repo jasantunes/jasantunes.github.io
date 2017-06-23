@@ -92,16 +92,18 @@ h6 {
     /*padding: 50px 0;*/
     padding: 0;
     background-color: #f8f8f8;
+    padding-bottom: 2em;
 }
 
 .content-section-b {
     padding: 0;
     border-top: 1px solid #e7e7e7;
     border-bottom: 1px solid #e7e7e7;
+    padding-bottom: 2em;
 }
 
 .section-heading {
-    margin-bottom: 30px;
+    margin-bottom: 1em;
 }
 
 .section-heading-spacer {
@@ -112,9 +114,8 @@ h6 {
 }
 
 .img-responsive {
-    margin: 0 auto;
-    padding: 50px 0 50px 0;
-    max-height: 400px;
+    margin: 3em auto 1em auto;
+    max-height: 300px;
 }
 
 .banner {

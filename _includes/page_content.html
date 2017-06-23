@@ -11,14 +11,14 @@
     <!-- css for odd/even sections -->
     {% if thecycle == 'odd' %}
     {% assign css_container = 'content-section-a' %}
-    {% assign css_single_column = 'col-lg-8 col-lg-offset-2' %}
-    {% assign css_left_column = 'col-lg-5 col-sm-6' %}
-    {% assign css_right_column = 'col-lg-5 col-lg-offset-2 col-sm-6' %}
+    {% assign css_single_column = 'col-lg-6 col-lg-offset-3 col-sm-8 col-sm-offset-2' %}
+     {% assign css_left_column = 'col-lg-5 col-lg-offset-1 col-sm-6' %}
+     {% assign css_right_column = 'col-lg-5 col-sm-6' %}
     {% else %}
     {% assign css_container = 'content-section-b' %}
-    {% assign css_single_column = 'col-lg-8 col-lg-offset-2' %}
-    {% assign css_left_column = 'col-lg-5 col-lg-offset-1 col-sm-push-6  col-sm-6' %}
-    {% assign css_right_column = 'col-lg-5 col-sm-pull-6  col-sm-6' %}
+    {% assign css_single_column = 'col-lg-6 col-lg-offset-3 col-sm-8 col-sm-offset-2' %}
+    {% assign css_left_column = 'col-lg-5 col-sm-push-6 col-sm-6' %}
+    {% assign css_right_column = 'col-lg-5 col-lg-offset-2 col-sm-pull-6 col-sm-6' %}
     {% endif %}
 
     <div class="{{ css_container }}">
@@ -45,7 +45,7 @@
                     <div class="lead">{{ post.content }}</div>
                 </div>
                 <div class="{{ css_right_column }}">
-                    <img class="img-responsive vertical-center" src="img/{{ include.category | downcase }}/{{ post.img }}" alt="">
+                    <img class="img-responsive" src="img/{{ include.category | downcase }}/{{ post.img }}" alt="">
                 </div>
                 {% endif %}
 
