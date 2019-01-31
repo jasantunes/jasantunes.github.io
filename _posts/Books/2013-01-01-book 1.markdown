@@ -1,7 +1,7 @@
 ---
 layout: default
 img: network_attack_injection.jpg
-category: Publications
+category: Books
 title: Network Attack Injection
 description: |
 ---

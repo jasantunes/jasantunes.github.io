@@ -4,12 +4,14 @@
 
 	<body>
 		{% include header.html %}
-		{% include page_content.html category='About' %}
-		{% include page_content.html category='Professional' %}
-		{% include page_content.html category='Open-Source' %}
-		{% include page_content.html category='Academic' %}
-		{% include page_content.html category='Books' %}
-		{% include page_content.html category='Publications' %}
+
+		{% assign sorted_categories = "About, Professional, Open-Source, Academic, Books, Publications" | split: ", " %}
+
+		{% for cat in sorted_categories %}
+		{% capture thecycle %}{% cycle 'content-section-a', 'content-section-b' %}{% endcapture %}
+		{% include page_content.html side=thecycle category=cat %}
+		{% endfor %}
+
 		{% include contact.html %}
 		{% include footer.html %}
 		{% include js.html %}

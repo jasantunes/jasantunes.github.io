@@ -1,7 +1,7 @@
 ---
 layout: default
 category: About
-title: About Me
+title: Joao Antunes
 description: |
 ---
 

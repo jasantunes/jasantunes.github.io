@@ -1,7 +1,7 @@
 ---
 layout: default
 img: vulnerability_assessment_through_attack_injection.jpg
-category: Publications
+category: Books
 title: Vulnerability Assessment Through Attack Injection
 description: |
 ---
