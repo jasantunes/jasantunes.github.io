@@ -1,6 +1,7 @@
 source "https://rubygems.org"
 
-gem "jekyll", "~> 3.4.2"
+# Check https://pages.github.com/versions/
+gem "jekyll", "~> 3.7.4"
 gem "jekyll-assets"
 gem "jekyll-sitemap"
 gem "jekyll-gist"
