@@ -1,11 +1,54 @@
 ---
 layout: default
-img: entelo.jpg
 category: Professional
+img: haroon-and-joao.jpg
 title: Entelo
 description: |
----
-  Since February, 2017.
+  [Entelo](http://www.entelo.com/) is a recruiting platform that applies intelligence to big data to help modern recruiters find, qualify, and acquire talent. We process over 6TB data daily, which poses very interesting challenges, from scalable ingestion of data to building accurate machine learning models. Entelo is a first-class recruiting platform powered by AI with an ever-growing customer base of over 700 customers, including big names such as Facebook, Amazon, Uber, Netflix, Slack, PayPal, Lyft, Asana, among others.
 
-  Senior Software Engineer at [Entelo](http://www.entelo.com/") (San Francisco, CA)
-  (Ruby, Rails).
+  As an **Engineering Manager** I have been responsible for a team of 5 engineers and for working with Product and Data Science teams to develop and maintain the two main products of Entelo: [Search](https://www.entelo.com/products/platform/search/) and [Envoy](https://www.entelo.com/products/envoy/).
+---
+
+- Engineering Manager <span class="btn-xs">(Nov 2018 – Present)</span>
+  <input type="checkbox" class="read-more-state" id="post-entelo-1" />
+  <label for="post-entelo-1" class="btn-link btn-xs read-more-trigger"></label>
+  <div class="read-more-target small">
+    <ul>
+      <li>Manage a team of 5 engineers and work with product and data science teams to develop/maintain the two main products of Entelo: Search and Envoy.</li>
+      <li>Manage 1-week sprints and quarter planning for Entelo Search and Envoy projects, as well as conducted sprint reviews, and project/team/quarter retrospectives.</li>
+      <li>Coordinate across engineering and non-engineering teams to launch and maintain Entelo's suite of products.</li>
+      <li>Managed Entelo Search's Kubernetes cluster.</li>
+      <li>Managed and maintained a 50-node Elasticsearch cluster with 6TB of profile data.</li>
+      <li>Introduced and helped adoption of PDP, Adobe's Check-ins, and OKRs to the team.</li>
+      <li>Actively involved in interviewing, sourcing, recruiting, and hiring.</li>
+      <li>Grow and mentor engineers into senior and leadership roles.</li>
+    </ul>
+  </div>
+
+
+- Senior Software Engineer, Team Lead <span class="btn-xs">(Feb 2018 – Nov 2018)</span>
+  <input type="checkbox" class="read-more-state" id="post-entelo-2" />
+  <label for="post-entelo-2" class="btn-link btn-xs read-more-trigger"></label>
+  <div class="read-more-target">
+    <ul>
+      <li>Helped manage projects and teams (Search, Data Science, Architecture) to design and implement Entelo Search Highlights (enriched metadata added on top of search results).</li>
+      <li>Designed and implemented search match indicators that reflect the individual relevancy score of search terms (patent-submitted).</li>
+      <li>Assisted 1-week sprints and quarter planning for Entelo Search and Envoy projects, as well as conducted sprint reviews, and project/team/quarter retrospectives.</li>
+      <li>Designed and implemented ETL process to ingest data into the SaaS appp, usinc a mix of Databricks, AWS Step Functions, AWS Batch Jobs (docker), AWS Lambda Functions, and Terraform.</li>
+      <li>Designed and implemented micro-services in Python/Flask, and deployed to Docker/Kubernetes.</li>
+      <li>Managed the team's Kubernetes cluster.</li>
+      <li>Managed and maintained a 50-node Elasticsearch cluster with 6TB of profile data.</li>
+    </ul>
+  </div>
+
+- Senior Software Engineer <span class="btn-xs">(Feb 2017 – Feb 2018)</span>
+  <input type="checkbox" class="read-more-state" id="post-entelo-3" />
+  <label for="post-entelo-3" class="btn-link btn-xs read-more-trigger"></label>
+  <div class="read-more-target">
+    <ul>
+      <li>Part of Search team working on backend Rails/RSpec and Elasticsearch (search relevancy).</li>
+      <li>Introduced Docker to the engineering department and had it adopted as the local development environment by containerizing all services that support the SaaS app (elasticsearch, mysql, postgres, redis, kafka, web mock, etc).</li>
+      <li>Introduced Golden Set regression tests to calculate and capture the current system’s relevancy score.</li>
+      <li>Prototyped migrating Solano building/testing and EC2 knife deployments with a modern PoC CI/CD with Jenkins + dockerized app deployment + kubernetes.</li>
+    </ul>
+  </div>
