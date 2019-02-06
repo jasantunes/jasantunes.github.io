@@ -6,9 +6,9 @@ url: https://jasantunes.github.io
 title: Joao Antunes
 author: Joao Antunes
 email: jasantunes@gmail.com
-description: "I am a software engineer at Entelo, a startup company located in San Francisco, CA. Before coming to the US I worked as a researcher at LaSIGE (a research lab in the the University of Lisboa (UL), Portugal, while doing my PhD in network attack injection."
+description: "I am an engineering manager at Entelo, a startup company located in San Francisco, CA. Before coming to the US I worked as a researcher at LaSIGE (a research lab in the the University of Lisboa (UL), Portugal, while doing my PhD in network attack injection."
 copyright: 'Copyright &copy; 2019 Joao Antunes. All Rights Reserved.'
-credits: 'Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
+credits: 'Theme: <a href="https://github.com/swcool/landing-page-theme">landing-page-theme</a>.'
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -27,4 +27,3 @@ social:
     url: https://github.com/jasantunes
   - title: linkedin
     url: https://www.linkedin.com/in/jantunes
-
