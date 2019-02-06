@@ -8,8 +8,8 @@
 		{% assign sorted_categories = "About, Professional, Open-Source, Academic, Books, Publications" | split: ", " %}
 
 		{% for cat in sorted_categories %}
-		{% capture thecycle %}{% cycle 'content-section-a', 'content-section-b' %}{% endcapture %}
-		{% include page_content.html side=thecycle category=cat %}
+		{%  capture thecycle %}{% cycle 'content-section-a', 'content-section-b' %}{% endcapture %}
+		{%  include page_content.html side=thecycle category=cat %}
 		{% endfor %}
 
 		{% include contact.html %}

@@ -1,55 +1,52 @@
 <section id="{{ include.category | downcase }}" class="{{ include.side }}">
 
-<div class="category-heading">
-    <h1>{{ include.category }}</h1>
-</div>
+    {% assign css_single_column = 'col-lg-6 col-lg-offset-3 col-sm-8 col-sm-offset-2' %}
 
-<!-- Page Content -->
-{% for post in site.categories[include.category] | reversed %}
-{% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
+    <div class="container">
+        <div class="row">
+            <div class="{{ css_single_column }}">
+                <div class="category-heading">
+                    <h1>{{ include.category }}</h1>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Page Content -->
+    {% for post in site.categories[include.category] | reversed %}
+    {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
 
     <!-- css for odd/even sections -->
     {% if thecycle == 'odd' %}
-    {%   assign css_single_column = 'col-lg-6 col-lg-offset-3 col-sm-8 col-sm-offset-2' %}
-    {%   assign css_left_column = 'col-lg-5 col-lg-offset-1 col-sm-6' %}
-    {%   assign css_right_column = 'col-lg-5 col-sm-6' %}
+    {% assign css_left_column = 'col-lg-5 col-lg-offset-1 col-sm-6' %}
+    {% assign css_right_column = 'col-lg-5 col-sm-6' %}
+    {% assign css_image = 'img-left' %}
     {% else %}
-    {%   assign css_single_column = 'col-lg-6 col-lg-offset-3 col-sm-8 col-sm-offset-2' %}
-    {%   assign css_left_column = 'col-lg-5 col-sm-push-6 col-sm-6' %}
-    {%   assign css_right_column = 'col-lg-5 col-lg-offset-2 col-sm-pull-6 col-sm-6' %}
+    {% assign css_left_column = 'col-lg-5 col-sm-push-6 col-sm-6' %}
+    {% assign css_right_column = 'col-lg-5 col-lg-offset-2 col-sm-pull-6 col-sm-6' %}
+    {% assign css_image = 'img-right' %}
     {% endif %}
 
     <div class="container">
         <div class="row">
-
-            <!-- one column -->
-            {% if post.img == undefined %}
             <div class="{{ css_single_column }}">
-                <!--<hr class="section-heading-spacer">-->
                 <div class="section-heading-spacer"></div>
                 <div class="clearfix"></div>
+
                 <h2 class="section-heading">{{ post.title }}</h2>
+
+                <div class="section-intro hyphenate">
+                    {% if post.img != undefined %}
+                    <img class="{{css_image}} img-responsive shadow" src="img/{{ include.category | downcase }}/{{ post.img }}" alt="">
+                    {% endif %}
+
+                    {{ post.description | markdownify}}
+                </div>
+
                 <div class="lead">{{ post.content }}</div>
             </div>
-
-            <!-- two columns -->
-            {% else %}
-            <div class="{{ css_left_column }}">
-                <!--<hr class="section-heading-spacer">-->
-                <div class="section-heading-spacer"></div>
-                <div class="clearfix"></div>
-                <h2 class="section-heading">{{ post.title }}</h2>
-                <div class="lead">{{ post.content }}</div>
-            </div>
-            <div class="{{ css_right_column }}">
-                <img class="img-responsive" src="img/{{ include.category | downcase }}/{{ post.img }}" alt="">
-            </div>
-            {% endif %}
-
         </div>
-        <!-- /.container -->
 
     </div>
-    <!-- /.content-section -->
-{% endfor %}
+    {% endfor %}
 </section>
