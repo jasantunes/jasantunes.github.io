@@ -9,22 +9,26 @@ description: |
   As an **Engineering Manager** I have been responsible for a team of 5 engineers and for working with Product and Data Science teams to develop and maintain the two main products of Entelo: [Search](https://www.entelo.com/products/platform/search/) and [Envoy](https://www.entelo.com/products/envoy/).
 ---
 
-- Engineering Manager <span class="btn-xs">(Nov 2018 – Present)</span>
-  <input type="checkbox" class="read-more-state" id="post-entelo-1" />
-  <label for="post-entelo-1" class="btn-link btn-xs read-more-trigger"></label>
-  <div class="read-more-target small">
-    <ul>
-      <li>Manage a team of 5 engineers and work with product and data science teams to develop/maintain the two main products of Entelo: Search and Envoy.</li>
-      <li>Manage 1-week sprints and quarter planning for Entelo Search and Envoy projects, as well as conducted sprint reviews, and project/team/quarter retrospectives.</li>
-      <li>Coordinate across engineering and non-engineering teams to launch and maintain Entelo's suite of products.</li>
-      <li>Managed Entelo Search's Kubernetes cluster.</li>
-      <li>Managed and maintained a 50-node Elasticsearch cluster with 6TB of profile data.</li>
-      <li>Introduced and helped adoption of PDP, Adobe's Check-ins, and OKRs to the team.</li>
-      <li>Actively involved in interviewing, sourcing, recruiting, and hiring.</li>
-      <li>Grow and mentor engineers into senior and leadership roles.</li>
-    </ul>
-  </div>
-
+<div class="highlight">
+  <ul>
+    <li>Engineering Manager <span class="btn-xs">(Nov 2018 – Present)</span>
+    <input type="checkbox" class="read-more-state" id="post-entelo-1" />
+    <label for="post-entelo-1" class="btn-link btn-xs read-more-trigger"></label>
+    <div class="read-more-target small">
+      <ul>
+        <li>Manage a team of 5 engineers and work with product and data science teams to develop/maintain the two main products of Entelo: Search and Envoy.</li>
+        <li>Manage 1-week sprints and quarter planning for Entelo Search and Envoy projects, as well as conducted sprint reviews, and project/team/quarter retrospectives.</li>
+        <li>Coordinate across engineering and non-engineering teams to launch and maintain Entelo's suite of products.</li>
+        <li>Managed Entelo Search's Kubernetes cluster.</li>
+        <li>Managed and maintained a 50-node Elasticsearch cluster with 6TB of profile data.</li>
+        <li>Introduced and helped adoption of PDP, Adobe's Check-ins, and OKRs to the team.</li>
+        <li>Actively involved in interviewing, sourcing, recruiting, and hiring.</li>
+        <li>Grow and mentor engineers into senior and leadership roles.</li>
+      </ul>
+    </div>
+  </li>
+  </ul>
+</div>
 
 - Senior Software Engineer, Team Lead <span class="btn-xs">(Feb 2018 – Nov 2018)</span>
   <input type="checkbox" class="read-more-state" id="post-entelo-2" />
