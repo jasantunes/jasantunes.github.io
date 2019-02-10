@@ -57,11 +57,7 @@ description: |
     </ul>
   </div>
 
-<div class="highlight">
-  <ul>
-    <li>MSc on Vulnerability Assessment Through Attack Injection at <a href="https://https://www.ulisboa.pt/">University of Lisboa</a><span class="btn-xs">(2006)</span></li>
-  </ul>
-</div>
+- MSc on Vulnerability Assessment Through Attack Injection at [University of Lisboa](https://https://www.ulisboa.pt/)<span class="btn-xs">(2006)</span>
 
 - Junior Researcher at [AJECT](http://aject.di.fc.ul.pt) <span class="btn-xs">(2005 – 2007)</span>
   <input type="checkbox" class="read-more-state" id="post-academia-5" />
