@@ -1,6 +1,5 @@
 ---
 layout: default
-img:
 category: Publications
 title: Technical Posts
 description: |

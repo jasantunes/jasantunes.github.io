@@ -228,7 +228,7 @@ p.copyright {
 }
 
 .read-more-target {
-    border-left: 2px solid #e7e7e7;
+    /* border-left: 2px solid #e7e7e7; */
     opacity: 0;
     max-height: 0;
     font-size: 0;

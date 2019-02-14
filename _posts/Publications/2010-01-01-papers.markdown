@@ -1,6 +1,5 @@
 ---
 layout: default
-img:
 category: Publications
 title: Journal and Conference Papers
 description: |
