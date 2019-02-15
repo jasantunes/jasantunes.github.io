@@ -9,6 +9,7 @@ email: jasantunes@gmail.com
 description: "I am an engineering manager at Entelo, a startup company located in San Francisco, CA. Before coming to the US I worked as a researcher at LaSIGE (a research lab in the the University of Lisboa (UL), Portugal, while doing my PhD in network attack injection."
 copyright: 'Copyright &copy; 2019 Joao Antunes. All Rights Reserved.'
 credits: 'Theme: <a href="https://github.com/swcool/landing-page-theme">landing-page-theme</a>.'
+lang: en-US
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -21,9 +22,10 @@ permalink: pretty
 # ----------------------- #
 #   3rd Party Settings    #
 # ----------------------- #
-
 social:
   - title: github
     url: https://github.com/jasantunes
   - title: linkedin
     url: https://www.linkedin.com/in/jantunes
+
+google_analytics: UA-17910784-4
