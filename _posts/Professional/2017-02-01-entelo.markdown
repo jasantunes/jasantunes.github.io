@@ -24,6 +24,7 @@ description: |
         <li>Introduced and helped adoption of PDP, Adobe's Check-ins, and OKRs to the team.</li>
         <li>Actively involved in interviewing, sourcing, recruiting, and hiring.</li>
         <li>Grow and mentor engineers into senior and leadership roles.</li>
+        <li>Manage and maintain a 30-node Elasticsearch cluster with 6TB of profile data.</li>
       </ul>
     </div>
   </li>
@@ -37,11 +38,11 @@ description: |
     <ul>
       <li>Helped manage projects and teams (Search, Data Science, Architecture) to design and implement Entelo Search Highlights (enriched metadata added on top of search results).</li>
       <li>Designed and implemented search match indicators that reflect the individual relevancy score of search terms (patent-submitted).</li>
-      <li>Assisted 1-week sprints and quarter planning for Entelo Search and Envoy projects, as well as conducted sprint reviews, and project/team/quarter retrospectives.</li>
+      <li>Assisted 1-week sprints and quarter planning for Entelo Search and Envoy products, as well as conduct sprint reviews, and project/team/quarter retrospectives.</li>
       <li>Designed and implemented ETL process to ingest data into the SaaS appp, usinc a mix of Databricks, AWS Step Functions, AWS Batch Jobs (docker), AWS Lambda Functions, and Terraform.</li>
       <li>Designed and implemented micro-services in Python/Flask, and deployed to Docker/Kubernetes.</li>
       <li>Managed the team's Kubernetes cluster.</li>
-      <li>Managed and maintained a 50-node Elasticsearch cluster with 6TB of profile data.</li>
+      <li>Managed and maintained a 30-node Elasticsearch cluster with 6TB of profile data.</li>
     </ul>
   </div>
 
