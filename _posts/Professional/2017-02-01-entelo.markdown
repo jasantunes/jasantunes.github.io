@@ -6,30 +6,47 @@ title: Entelo
 description: |
   [Entelo](http://www.entelo.com/) is a recruiting platform that applies intelligence to big data to help modern recruiters find, qualify, and acquire talent. We process over 6TB data daily, which poses very interesting challenges, from scalable ingestion of data to building accurate machine learning models. Entelo is a first-class recruiting platform powered by AI with an ever-growing customer base of over 700 customers, including big names such as Facebook, Amazon, Uber, Netflix, Slack, PayPal, Lyft, Asana, among others.
 
-  As an **Engineering Manager** I have been responsible for a team of 5 engineers and for working with Product and Data Science teams to develop and maintain the two main products of Entelo: [Search](https://www.entelo.com/products/platform/search/) and [Envoy](https://www.entelo.com/products/envoy/).
+  As **Director of Engineering** I have been responsible for the I&D and Data Science teams to develop and maintain the two main products of Entelo: [Search](https://www.entelo.com/products/platform/search/) and [Envoy](https://www.entelo.com/products/envoy/).
 ---
 
 <div class="highlight">
   <ul>
-    <li>Engineering Manager <span class="btn-xs">(Nov 2018 – Present)</span>
-    <input type="checkbox" class="read-more-state" id="post-entelo-1" />
-    <label for="post-entelo-1" class="btn-link btn-xs read-more-trigger"></label>
+    <li>Director of Engineering<span class="btn-xs">(May 2019 – Present)</span>
+    <input type="checkbox" class="read-more-state" id="post-entelo-4" />
+    <label for="post-entelo-4" class="btn-link btn-xs read-more-trigger"></label>
     <div class="read-more-target small">
       <ul>
-        <li>Manage a team of 5 engineers and work with product and data science teams to develop/maintain the two main products of Entelo: Search and Envoy.</li>
-        <li>Manage 1-week sprints and quarter planning for Entelo Search and Envoy projects, as well as conducted sprint reviews, and project/team/quarter retrospectives.</li>
+        <li>Responsible for a team of 5 engineers responsible for developing and maintaining the two main products of Entelo: Search and Envoy.</li>
+        <li>Responsible and manager for the Data Science team (3 scientists).</li>
+        <li>Help manage 1-week sprints and quarter planning for Entelo Search and Envoy projects, as well as conducted sprint reviews, and project/team/quarter retrospectives, as well as 2-week sprints for the Data Science team.</li>
         <li>Coordinate across engineering and non-engineering teams to launch and maintain Entelo's suite of products.</li>
-        <li>Managed Entelo Search's Kubernetes cluster.</li>
-        <li>Managed and maintained a 50-node Elasticsearch cluster with 6TB of profile data.</li>
+        <li>Manage Entelo Search's Kubernetes production cluster.</li>
         <li>Introduced and helped adoption of PDP, Adobe's Check-ins, and OKRs to the team.</li>
         <li>Actively involved in interviewing, sourcing, recruiting, and hiring.</li>
-        <li>Grow and mentor engineers into senior and leadership roles.</li>
-        <li>Manage and maintain a 30-node Elasticsearch cluster with 6TB of profile data.</li>
+        <li>Grow and mentor engineers into specialized technical roles as well as management roles.</li>
+        <li>Manage and maintain a 30-node Elasticsearch production cluster with 6TB of profile data.</li>
       </ul>
     </div>
   </li>
   </ul>
 </div>
+
+- Engineering Manager <span class="btn-xs">(Nov 2018 – May 2019)</span>
+  <input type="checkbox" class="read-more-state" id="post-entelo-3" />
+  <label for="post-entelo-3" class="btn-link btn-xs read-more-trigger"></label>
+  <div class="read-more-target small">
+    <ul>
+      <li>Managed a team of 5 engineers and work with product and data science teams to develop/maintain the two main products of Entelo: Search and Envoy.</li>
+      <li>Managed 1-week sprints and quarter planning for Entelo Search and Envoy projects, as well as conducted sprint reviews, and project/team/quarter retrospectives.</li>
+      <li>Coordinated engineering and non-engineering teams to launch and maintain Entelo's suite of products.</li>
+      <li>Managed Entelo Search's Kubernetes production cluster.</li>
+      <li>Introduced and helped adoption of PDP, Adobe's Check-ins, and OKRs to the team.</li>
+      <li>Actively involved in interviewing, sourcing, recruiting, and hiring.</li>
+      <li>Grow and mentor engineers into senior and leadership roles.</li>
+      <li>Downsize a 50-node Elasticsearch production cluster to 30 nodes.</li>
+      <li>Manage and maintain a 30-node Elasticsearch production cluster with 6TB of profile data.</li>
+    </ul>
+  </div>
 
 - Senior Software Engineer, Team Lead <span class="btn-xs">(Feb 2018 – Nov 2018)</span>
   <input type="checkbox" class="read-more-state" id="post-entelo-2" />
@@ -41,14 +58,14 @@ description: |
       <li>Assisted 1-week sprints and quarter planning for Entelo Search and Envoy products, as well as conduct sprint reviews, and project/team/quarter retrospectives.</li>
       <li>Designed and implemented ETL process to ingest data into the SaaS appp, usinc a mix of Databricks, AWS Step Functions, AWS Batch Jobs (docker), AWS Lambda Functions, and Terraform.</li>
       <li>Designed and implemented micro-services in Python/Flask, and deployed to Docker/Kubernetes.</li>
-      <li>Managed the team's Kubernetes cluster.</li>
-      <li>Managed and maintained a 30-node Elasticsearch cluster with 6TB of profile data.</li>
+      <li>Managed the team's Kubernetes production cluster.</li>
+      <li>Managed and maintained a 50-node Elasticsearch production cluster with 6TB of profile data.</li>
     </ul>
   </div>
 
 - Senior Software Engineer <span class="btn-xs">(Feb 2017 – Feb 2018)</span>
-  <input type="checkbox" class="read-more-state" id="post-entelo-3" />
-  <label for="post-entelo-3" class="btn-link btn-xs read-more-trigger"></label>
+  <input type="checkbox" class="read-more-state" id="post-entelo-1" />
+  <label for="post-entelo-1" class="btn-link btn-xs read-more-trigger"></label>
   <div class="read-more-target">
     <ul>
       <li>Part of Search team working on backend Rails/RSpec and Elasticsearch (search relevancy).</li>

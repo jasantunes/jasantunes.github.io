@@ -16,6 +16,13 @@ title: The service title
 The description of this service
 ```
 
+## Run locally
+```
+bundle install
+bundle exec jekyll serve --watch
+```
+
+
 ## Demo
 View this jekyll theme in action [here](https://swcool.github.io/landing-page-theme)
 
