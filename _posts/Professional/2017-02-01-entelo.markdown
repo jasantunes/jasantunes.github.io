@@ -16,15 +16,11 @@ description: |
     <label for="post-entelo-4" class="btn-link btn-xs read-more-trigger"></label>
     <div class="read-more-target small">
       <ul>
-        <li>Responsible for a team of 5 engineers responsible for developing and maintaining the two main products of Entelo: Search and Envoy.</li>
-        <li>Responsible and manager for the Data Science team (3 scientists).</li>
-        <li>Help manage 1-week sprints and quarter planning for Entelo Search and Envoy projects, as well as conducted sprint reviews, and project/team/quarter retrospectives, as well as 2-week sprints for the Data Science team.</li>
-        <li>Coordinate across engineering and non-engineering teams to launch and maintain Entelo's suite of products.</li>
-        <li>Manage Entelo Search's Kubernetes production cluster.</li>
-        <li>Introduced and helped adoption of PDP, Adobe's Check-ins, and OKRs to the team.</li>
+        <li>Responsible for core customer-facing products: Search, Envoy, Entelo Lite, Entelo Premium.</li>
+        <li>Experience managing high performing engineering and data science teams.</li>
+        <li>Experience managing and mentoring engineering leads and managers.</li>
+        <li>Experience in leading design discussions, architecture, code reviews, sprint plannings, retros, performance reviews, 1:1s, PDPs, Adobe's Check-ins, and OKRs to the team.</li>
         <li>Actively involved in interviewing, sourcing, recruiting, and hiring.</li>
-        <li>Grow and mentor engineers into specialized technical roles as well as management roles.</li>
-        <li>Manage and maintain a 30-node Elasticsearch production cluster with 6TB of profile data.</li>
       </ul>
     </div>
   </li>
@@ -36,15 +32,14 @@ description: |
   <label for="post-entelo-3" class="btn-link btn-xs read-more-trigger"></label>
   <div class="read-more-target small">
     <ul>
-      <li>Managed a team of 5 engineers and work with product and data science teams to develop/maintain the two main products of Entelo: Search and Envoy.</li>
-      <li>Managed 1-week sprints and quarter planning for Entelo Search and Envoy projects, as well as conducted sprint reviews, and project/team/quarter retrospectives.</li>
-      <li>Coordinated engineering and non-engineering teams to launch and maintain Entelo's suite of products.</li>
-      <li>Managed Entelo Search's Kubernetes production cluster.</li>
-      <li>Introduced and helped adoption of PDP, Adobe's Check-ins, and OKRs to the team.</li>
-      <li>Actively involved in interviewing, sourcing, recruiting, and hiring.</li>
+      <li>Managed an engineering team responsible for building two core products of Entelo: Search and Envoy.</li>
       <li>Grow and mentor engineers into senior and leadership roles.</li>
-      <li>Downsize a 50-node Elasticsearch production cluster to 30 nodes.</li>
+      <li>Experience in leading design discussions, architecture, code reviews, sprint plannings, retros, performance reviews, 1:1s.</li>
+      <li>Introduced and helped adoption of PDP, Adobe's Check-ins, and OKRs to the team.</li>
+      <li>Experience with cloud-based data warehouse technology and modern big data processing and streaming tools (Mode, Redshift, Databricks / Spark, Kafka).</li>
+      <li>Experience with infrastructure and cloud technology (AWS RDS, AWS ECS / Kubernetes, Lambda, Step Fn, Terraform, Chef, etc).</li>
       <li>Manage and maintain a 30-node Elasticsearch production cluster with 6TB of profile data.</li>
+      <li>Actively involved in interviewing, sourcing, recruiting, and hiring.</li>
     </ul>
   </div>
 
@@ -53,8 +48,8 @@ description: |
   <label for="post-entelo-2" class="btn-link btn-xs read-more-trigger"></label>
   <div class="read-more-target">
     <ul>
-      <li>Helped manage projects and teams (Search, Data Science, Architecture) to design and implement Entelo Search Highlights (enriched metadata added on top of search results).</li>
-      <li>Designed and implemented search match indicators that reflect the individual relevancy score of search terms (patent-submitted).</li>
+      <li>Helped manage projects and teams (Search, Data Science, Architecture) to design and implement Entelo Search Highlights (enriched metadata on search results).</li>
+      <li>Designed and implemented search match indicators that reflect the individual relevancy score of search terms (patent-pending).</li>
       <li>Assisted 1-week sprints and quarter planning for Entelo Search and Envoy products, as well as conduct sprint reviews, and project/team/quarter retrospectives.</li>
       <li>Designed and implemented ETL process to ingest data into the SaaS appp, usinc a mix of Databricks, AWS Step Functions, AWS Batch Jobs (docker), AWS Lambda Functions, and Terraform.</li>
       <li>Designed and implemented micro-services in Python/Flask, and deployed to Docker/Kubernetes.</li>

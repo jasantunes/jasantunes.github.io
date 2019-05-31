@@ -10,12 +10,10 @@ description: |
 {% assign now_ts = "now" | date: "%s" %}
 {% assign arrived_ts = "February 14, 2012" | date: "%s" %}
 {% assign years_since_arriving = now_ts | minus: arrived_ts | divided_by: year_secs %}
+{% assign years_since_arriving = now_ts | minus: arrived_ts | divided_by: year_secs %}
 
 ![Joao Antunes](img/me.jpg){:class="img-responsive img-circle"}
 
-I am a Director of Engineering with a strong technical background in backend and network monitoring R&D. I also hold a PhD in network security and dependability of network systems.
+I am a Director of Engineering with experience in building core customer-facing products, operating high-scale distributed systems, and managing high performing engineering and data science teams, including managing and mentoring engineering leads and managers.
 
-I have over seven years of experience in pan-european research projects, and I am the author of several international research papers, patents in network performance monitoring and search relevancy, and two books on network attack injection.
-
-I left academia {{years_since_arriving}} years ago to work at startups in Silicon Valley.
-For the past six years I have been working with a broad full stack technology at exciting SaaS startups in San Francisco, CA, namely C++, Ruby (Rails), Python, Elasticsearch, Kubernetes, Amazon AWS, Redis, MySql, Postgres, Kafka, Docker, etc.
+Also, in what feels like a previous life, I have a PhD in Network Security with 7+ years of experience in pan-european research projects, and I am the author of several international research papers, patents in network performance monitoring and search relevancy, and two books on network attack injection.
