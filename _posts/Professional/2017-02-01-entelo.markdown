@@ -6,7 +6,7 @@ title: Entelo
 description: |
   [Entelo](http://www.entelo.com/) is a recruiting platform that applies intelligence to big data to help modern recruiters find, qualify, and acquire talent. We process over 6TB data daily, which poses very interesting challenges, from scalable ingestion of data to building accurate machine learning models. Entelo is a first-class recruiting platform powered by AI with an ever-growing customer base of over 700 customers, including big names such as Facebook, Amazon, Uber, Netflix, Slack, PayPal, Lyft, Asana, among others.
 
-  As **Director of Engineering** I have been responsible for the I&D and Data Science teams to develop and maintain the two main products of Entelo: [Search](https://www.entelo.com/products/platform/search/) and [Envoy](https://www.entelo.com/products/envoy/).
+  As **Director of Engineering** I have been responsible for the Engineering and Data Science teams responsible to develop and maintain the core products of Entelo: [Search](https://www.entelo.com/products/platform/search/), [Envoy](https://www.entelo.com/products/envoy/), Entelo Lite, Entelo Premium, etc.
 ---
 
 <div class="highlight">
@@ -14,13 +14,12 @@ description: |
     <li>Director of Engineering<span class="btn-xs">(May 2019 – Present)</span>
     <input type="checkbox" class="read-more-state" id="post-entelo-4" />
     <label for="post-entelo-4" class="btn-link btn-xs read-more-trigger"></label>
-    <div class="read-more-target small">
+    <div class="read-more-target">
       <ul>
-        <li>Responsible for core customer-facing products: Search, Envoy, Entelo Lite, Entelo Premium.</li>
-        <li>Experience managing high performing engineering and data science teams.</li>
-        <li>Experience managing and mentoring engineering leads and managers.</li>
-        <li>Experience in leading design discussions, architecture, code reviews, sprint plannings, retros, performance reviews, 1:1s, PDPs, Adobe's Check-ins, and OKRs to the team.</li>
-        <li>Actively involved in interviewing, sourcing, recruiting, and hiring.</li>
+        <li>Responsible for core customer-facing products: Search, Envoy (recruiting automation), Projects, Lite (browser extension), Premium, etc.</li>
+        <li>Manage high performing engineering and data science teams.</li>
+        <li>Manage and mentor engineering leads and managers.</li>
+        <li>Maintained responsibilities held under Engineering Manager.</li>
       </ul>
     </div>
   </li>
@@ -30,15 +29,12 @@ description: |
 - Engineering Manager <span class="btn-xs">(Nov 2018 – May 2019)</span>
   <input type="checkbox" class="read-more-state" id="post-entelo-3" />
   <label for="post-entelo-3" class="btn-link btn-xs read-more-trigger"></label>
-  <div class="read-more-target small">
+  <div class="read-more-target">
     <ul>
-      <li>Managed an engineering team responsible for building two core products of Entelo: Search and Envoy.</li>
-      <li>Grow and mentor engineers into senior and leadership roles.</li>
-      <li>Experience in leading design discussions, architecture, code reviews, sprint plannings, retros, performance reviews, 1:1s.</li>
-      <li>Introduced and helped adoption of PDP, Adobe's Check-ins, and OKRs to the team.</li>
-      <li>Experience with cloud-based data warehouse technology and modern big data processing and streaming tools (Mode, Redshift, Databricks / Spark, Kafka).</li>
-      <li>Experience with infrastructure and cloud technology (AWS RDS, AWS ECS / Kubernetes, Lambda, Step Fn, Terraform, Chef, etc).</li>
-      <li>Manage and maintain a 30-node Elasticsearch production cluster with 6TB of profile data.</li>
+      <li>Managed a 6-engineering team responsible for building two core products: Search and Envoy (recruiting automation).</li>
+      <li>Grew and mentored engineers into senior and leadership roles.</li>
+      <li>Lead design discussions, architecture, code reviews, sprint plannings, retros, performance reviews, 1:1s.</li>
+      <li>Introduced and helped adoption of PDP, Adobe's Check-ins, and OKRs.</li>
       <li>Actively involved in interviewing, sourcing, recruiting, and hiring.</li>
     </ul>
   </div>
@@ -48,13 +44,13 @@ description: |
   <label for="post-entelo-2" class="btn-link btn-xs read-more-trigger"></label>
   <div class="read-more-target">
     <ul>
-      <li>Helped manage projects and teams (Search, Data Science, Architecture) to design and implement Entelo Search Highlights (enriched metadata on search results).</li>
-      <li>Designed and implemented search match indicators that reflect the individual relevancy score of search terms (patent-pending).</li>
-      <li>Assisted 1-week sprints and quarter planning for Entelo Search and Envoy products, as well as conduct sprint reviews, and project/team/quarter retrospectives.</li>
-      <li>Designed and implemented ETL process to ingest data into the SaaS appp, usinc a mix of Databricks, AWS Step Functions, AWS Batch Jobs (docker), AWS Lambda Functions, and Terraform.</li>
-      <li>Designed and implemented micro-services in Python/Flask, and deployed to Docker/Kubernetes.</li>
-      <li>Managed the team's Kubernetes production cluster.</li>
+      <li>Lead several cross-team (Search, Data Science, Architecture) projects, e.g., Search Insights (enriched metadata on search results), Search Relevancy Indicators (patent-pending).</li>
+      <li>Designed and implemented ETL process to ingest data into the SaaS app, using Databricks, AWS Step Fn, AWS Batch (docker), AWS Lambda, and Terraform.</li>
+      <li>Designed and implemented microservices in Ruby and Python/Flask, and deployed to Kubernetes.</li>
+      <li>Lead and planned 1-week sprints, quarter planning, sprint reviews, and retrospectives.</li>
+      <li>Managed Kubernetes production cluster.</li>
       <li>Managed and maintained a 50-node Elasticsearch production cluster with 6TB of profile data.</li>
+      <li>Maintained responsibilities held under Senior Software Engineer.</li>
     </ul>
   </div>
 
@@ -63,9 +59,9 @@ description: |
   <label for="post-entelo-1" class="btn-link btn-xs read-more-trigger"></label>
   <div class="read-more-target">
     <ul>
-      <li>Part of Search team working on backend Rails/RSpec and Elasticsearch (search relevancy).</li>
-      <li>Introduced Docker to the engineering department and had it adopted as the local development environment by containerizing all services that support the SaaS app (elasticsearch, mysql, postgres, redis, kafka, web mock, etc).</li>
-      <li>Introduced Golden Set regression tests to calculate and capture the current system’s relevancy score.</li>
-      <li>Prototyped migrating Solano building/testing and EC2 knife deployments with a modern PoC CI/CD with Jenkins + dockerized app deployment + kubernetes.</li>
+      <li>Worked on backend Ruby on Rails and Elasticsearch as part of Search team.</li>
+      <li>Introduced Docker to the eng department and had it adopted as the local dev environment by containerizing all services that support the SaaS app (elasticsearch, mysql, postgres, redis, kafka, web mock, etc).</li>
+      <li>Introduced search relevancy regression tests.</li>
+      <li>Prototyped migrating legacy CI/CD to a modern PoC with Jenkins, Docker, Kubernetes.</li>
     </ul>
   </div>
