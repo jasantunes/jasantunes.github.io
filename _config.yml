@@ -24,8 +24,13 @@ permalink: pretty
 # ----------------------- #
 social:
   - title: github
+    icon: fa-github
     url: https://github.com/jasantunes
   - title: linkedin
+    icon: fa-linkedin
     url: https://www.linkedin.com/in/jantunes
+  - title: pdf
+    icon: fa-file-pdf-o
+    url: http://bit.ly/joao_resume
 
 google_analytics: UA-17910784-4
