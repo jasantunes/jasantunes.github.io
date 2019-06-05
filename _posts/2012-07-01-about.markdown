@@ -14,6 +14,8 @@ description: |
 
 ![Joao Antunes](img/me.jpg){:class="img-responsive img-circle"}
 
-I am a Director of Engineering with experience in building core customer-facing products, operating high-scale distributed systems, and managing high performing engineering and data science teams, including managing and mentoring engineering leads and managers.
+I am a Director of Engineering with experience in building core customer- facing products, operating high-scale distributed systems, and managing high performing engineering and data science teams, including managing and mentoring engineering leads and managers.
 
-Also, in what feels like a previous life, I have a PhD in Network Security with 7+ years of experience in pan-european research projects, and I am the author of several international research papers, patents in network performance monitoring and search relevancy, and two books on network attack injection.
+I have 9+ years of professional software development experience, with strong background in backend and distributed systems, cloud-based data warehouse technology and big data processing and infrastructure.
+
+Also, in what feels like a previous life, I have a PhD in Network Security with 7+ years of experience in pan-european research projects, and I am the author of several international research papers, patents in network performance monitoring and search relevancy, and two published books on network attack injection.
