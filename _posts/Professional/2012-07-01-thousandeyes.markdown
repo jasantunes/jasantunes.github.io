@@ -4,9 +4,9 @@ img: thousandeyes.jpg
 category: Professional
 title: ThousandEyes
 description: |
-  [ThousandEyes](http://www.thousandeyes.com/) is a Network Performance Monitoring solution that provides visibility into the entire application service delivery chain for SaaS performance management, including internal and external network-level information paired with application and routing data. ThousandEyes is central to the global operations of the world’s largest and fastest growing brands, including Comcast, eBay, HP, 100+ of the Global 2000, 60+ of the Fortune 500, 5 of the 6 top US banks, and 20 of the 25 top SaaS companies (as of 2018).
+  [ThousandEyes](http://www.thousandeyes.com/) (Series D) is a Network Performance Monitoring solution that provides visibility into the entire application service delivery chain for SaaS performance management, including internal and external network-level information paired with application and routing data. ThousandEyes is central to the global operations of the world’s largest and fastest growing brands, including Comcast, eBay, HP, 100+ of the Global 2000, 60+ of the Fortune 500, 5 of the 6 top US banks, and 20 of the 25 top SaaS companies (as of 2018).
 
-  As one of the first handfull full-time engineers at ThousandEyes, I was part of the core backend/R&D team that was responsible for the cross-platform software running on several thousands of network agents that make up the ThousandEyes monitoring network.
+  As one of the first handfull full-time engineers at ThousandEyes (in 2012), I was part of the core backend/R&D team that was responsible for the cross-platform software running on several thousands of network agents that make up the ThousandEyes monitoring network.
 ---
 
 - Senior Software Engineer <span class="btn-xs">(Jul 2012 – Feb 2017)</span>
