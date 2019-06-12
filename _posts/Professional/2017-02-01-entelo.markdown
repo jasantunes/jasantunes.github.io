@@ -4,27 +4,40 @@ category: Professional
 img: haroon-and-joao.jpg
 title: Entelo
 description: |
-  [Entelo](http://www.entelo.com/) is a recruiting platform that applies intelligence to big data to help modern recruiters find, qualify, and acquire talent. We process over 6TB data daily, which poses very interesting challenges, from scalable ingestion of data to building accurate machine learning models. Entelo is a first-class recruiting platform powered by AI with an ever-growing customer base of over 700 customers, including big names such as Facebook, Amazon, Uber, Netflix, Slack, PayPal, Lyft, Asana, among others.
+  [Entelo](http://www.entelo.com/) (Series C) is a recruiting platform that applies intelligence to big data to help modern recruiters find, qualify, and acquire talent. We process over 6TB data daily, which poses very interesting challenges, from scalable ingestion of data to building accurate machine learning models. Entelo is a first-class recruiting platform powered by AI with an ever-growing customer base of over 700 customers, including big names such as Facebook, Amazon, Uber, Netflix, Slack, PayPal, Lyft, Asana, among others.
 
-  As **Director of Engineering** I have been responsible for the Engineering and Data Science teams responsible to develop and maintain the core products of Entelo: [Search](https://www.entelo.com/products/platform/search/), [Envoy](https://www.entelo.com/products/envoy/), Entelo Lite, Entelo Premium, etc.
+  <!-- As **Director of Engineering** I have been responsible for the Engineering and Data Science teams responsible to develop and maintain the core products of Entelo: [Search](https://www.entelo.com/products/platform/search/), [Envoy](https://www.entelo.com/products/envoy/), Entelo Lite, Entelo Premium, etc. -->
 ---
 
 <div class="highlight">
   <ul>
-    <li>Director of Engineering<span class="btn-xs">(May 2019 – Present)</span>
-    <input type="checkbox" class="read-more-state" id="post-entelo-4" />
-    <label for="post-entelo-4" class="btn-link btn-xs read-more-trigger"></label>
+    <li>Head of Engineering<span class="btn-xs">(June 2019 – Present)</span>
+    <input type="checkbox" class="read-more-state" id="post-entelo-5" />
+    <label for="post-entelo-5" class="btn-link btn-xs read-more-trigger"></label>
     <div class="read-more-target">
       <ul>
-        <li>Responsible for core customer-facing products: Search, Envoy (recruiting automation), Projects, Lite (browser extension), Premium, etc.</li>
-        <li>Manage high performing engineering and data science teams.</li>
-        <li>Manage and mentor engineering leads and managers.</li>
-        <li>Maintained responsibilities held under Engineering Manager.</li>
+        <li>Responsible for Entelo's Engineering department. Manage high performing engineering and data science teams.</li>
+        <li>Partner with other departments (CS, Sales, Ops, Marketing).</li>
+        <li>Manage and mentor engineering leads, managers, and directors.</li>
+        <li>Promote a growing, ethical, and inclusive departmental culture.</li>
       </ul>
     </div>
   </li>
   </ul>
 </div>
+
+- Director of Engineering<span class="btn-xs">(May 2019 – June 2019)</span>
+  <input type="checkbox" class="read-more-state" id="post-entelo-4" />
+  <label for="post-entelo-4" class="btn-link btn-xs read-more-trigger"></label>
+  <div class="read-more-target">
+    <ul>
+      <li>Responsible for core customer-facing products: Search, Envoy (recruiting automation), Projects, Lite (browser extension), Premium, etc.</li>
+      <li>Manage high performing engineering and data science teams.</li>
+      <li>Manage and mentor engineering leads and managers.</li>
+      <li>Maintained responsibilities held under Engineering Manager.</li>
+    </ul>
+  </div>
+
 
 - Engineering Manager <span class="btn-xs">(Nov 2018 – May 2019)</span>
   <input type="checkbox" class="read-more-state" id="post-entelo-3" />
