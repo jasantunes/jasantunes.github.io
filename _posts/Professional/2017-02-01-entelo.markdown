@@ -11,35 +11,26 @@ description: |
 
 <div class="highlight">
   <ul>
-    <li>Head of Engineering<span class="btn-xs">(June 2019 – Present)</span>
+    <li>Director of Engineering, Head of Engineering<span class="btn-xs">(May 2019 – Present)</span>
     <input type="checkbox" class="read-more-state" id="post-entelo-5" />
     <label for="post-entelo-5" class="btn-link btn-xs read-more-trigger"></label>
     <div class="read-more-target">
       <ul>
-        <li>Responsible for Entelo's Engineering department. Manage high performing engineering and data science teams.</li>
+        <li>Responsible for Entelo's Engineering department.</li>
+        <li>Manage high performing engineering and data science teams.</li>
         <li>Partner with other departments (CS, Sales, Ops, Marketing).</li>
         <li>Manage and mentor engineering leads, managers, and directors.</li>
         <li>Promote a growing, ethical, and inclusive departmental culture.</li>
+        <li>Responsible for core customer-facing products: Search, Envoy (recruiting automation), Projects, Lite (browser extension), Premium, etc.</li>
+        <li>Actively involved in interviewing, sourcing, recruiting, and hiring.</li>
+        <li>Maintained responsibilities held under Engineering Manager.</li>
       </ul>
     </div>
   </li>
   </ul>
 </div>
 
-- Director of Engineering<span class="btn-xs">(May 2019 – June 2019)</span>
-  <input type="checkbox" class="read-more-state" id="post-entelo-4" />
-  <label for="post-entelo-4" class="btn-link btn-xs read-more-trigger"></label>
-  <div class="read-more-target">
-    <ul>
-      <li>Responsible for core customer-facing products: Search, Envoy (recruiting automation), Projects, Lite (browser extension), Premium, etc.</li>
-      <li>Manage high performing engineering and data science teams.</li>
-      <li>Manage and mentor engineering leads and managers.</li>
-      <li>Maintained responsibilities held under Engineering Manager.</li>
-    </ul>
-  </div>
-
-
-- Engineering Manager <span class="btn-xs">(Nov 2018 – May 2019)</span>
+- Engineering Manager <span class="btn-xs">(Feb 2018 – May 2019)</span>
   <input type="checkbox" class="read-more-state" id="post-entelo-3" />
   <label for="post-entelo-3" class="btn-link btn-xs read-more-trigger"></label>
   <div class="read-more-target">
@@ -48,21 +39,14 @@ description: |
       <li>Grew and mentored engineers into senior and leadership roles.</li>
       <li>Lead design discussions, architecture, code reviews, sprint plannings, retros, performance reviews, 1:1s.</li>
       <li>Introduced and helped adoption of PDP, Adobe's Check-ins, and OKRs.</li>
-      <li>Actively involved in interviewing, sourcing, recruiting, and hiring.</li>
-    </ul>
-  </div>
 
-- Senior Software Engineer, Team Lead <span class="btn-xs">(Feb 2018 – Nov 2018)</span>
-  <input type="checkbox" class="read-more-state" id="post-entelo-2" />
-  <label for="post-entelo-2" class="btn-link btn-xs read-more-trigger"></label>
-  <div class="read-more-target">
-    <ul>
       <li>Lead several cross-team (Search, Data Science, Architecture) projects, e.g., Search Insights (enriched metadata on search results), Search Relevancy Indicators (patent-pending).</li>
       <li>Designed and implemented ETL process to ingest data into the SaaS app, using Databricks, AWS Step Fn, AWS Batch (docker), AWS Lambda, and Terraform.</li>
       <li>Designed and implemented microservices in Ruby and Python/Flask, and deployed to Kubernetes.</li>
       <li>Lead and planned 1-week sprints, quarter planning, sprint reviews, and retrospectives.</li>
       <li>Managed Kubernetes production cluster.</li>
       <li>Managed and maintained a 50-node Elasticsearch production cluster with 6TB of profile data.</li>
+      <li>Actively involved in interviewing, sourcing, recruiting, and hiring.</li>
       <li>Maintained responsibilities held under Senior Software Engineer.</li>
     </ul>
   </div>
