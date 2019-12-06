@@ -23,13 +23,13 @@ permalink: pretty
 #   3rd Party Settings    #
 # ----------------------- #
 social:
-  - title: github
+  - title: GitHub
     icon: fa-github
     url: https://github.com/jasantunes
-  - title: linkedin
+  - title: LinkedIn
     icon: fa-linkedin
     url: https://www.linkedin.com/in/jantunes
-  - title: pdf
+  - title: CV
     icon: fa-file-pdf-o
     url: http://bit.ly/joao_resume
     # original Google Docs document: https://docs.google.com/document/d/14WhT62GUSVQTd5wCfzUHfXZa-bJRmPDH4vnxX2E5dBQ

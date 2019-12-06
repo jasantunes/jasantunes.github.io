@@ -1,9 +1,10 @@
 ---
 layout: default
 category: Publications
-title: Technical Posts
+title: Blog Posts
 description: |
 ---
 
-- [Measure and Manage Voice Performance Across Networks](https://blog.thousandeyes.com/measure-manage-voice-performance-across-networks/), Joao Antunes, ThousandEyes Blog, Sep. 2014.
-- [A Very Simple Model for TCP Throughput](https://blog.thousandeyes.com/a-very-simple-model-for-tcp-throughput/), Joao Antunes, ThousandEyes Blog, July 2013.
+- [Why You Should Make Everyone a Project Lead](https://engineering.entelo.com/why-you-should-make-everyone-a-project-lead-f167472b580d), April 2019
+- [Measure and Manage Voice Performance Across Networks](https://blog.thousandeyes.com/measure-manage-voice-performance-across-networks/), September 2014
+- [A Very Simple Model for TCP Throughput](https://blog.thousandeyes.com/a-very-simple-model-for-tcp-throughput/), July 2013
