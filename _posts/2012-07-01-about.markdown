@@ -13,7 +13,7 @@ description: |
 
 ![Joao Antunes](img/me.jpg){:class="img-responsive img-circle"}
 
-I am the Head of Engineering of a Series C startup with experience in building core customer- facing products, operating high-scale distributed systems, and managing high performing engineering and data science teams, including managing and mentoring engineering leads, managers and directors.
+I am the Head of Engineering of a Series C startup with experience in building core customer-facing products, operating high-scale distributed systems, and managing high-performing engineering and data science teams, including managing and mentoring engineering leads, managers and directors.
 
 I have {{ years_since_arriving }}+ years of professional software development experience, with strong background in backend and distributed systems.
 
