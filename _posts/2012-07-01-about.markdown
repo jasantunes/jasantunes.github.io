@@ -13,8 +13,8 @@ description: |
 
 ![Joao Antunes](img/me.jpg){:class="img-responsive img-circle"}
 
-I am the Head of Engineering of a Series C startup with experience in building core customer-facing products, operating high-scale distributed systems, and managing high-performing engineering and data science teams, including managing and mentoring engineering leads, managers and directors.
+I’m an Engineering Leader with 8+ YoE in professional software development and 2+ YoE of managing teams of software and infrastructure engineers as well as data scientists. I previously held the title of Head of Engineering of a Series C startup, where at one point I was managing up to 20 engineers, including ICs and managers.
 
-I have {{ years_since_arriving }}+ years of professional software development experience, with strong background in backend and distributed systems.
+I have a track record of building core customer-facing products, operating high-scale distributed systems, and developing high-performing teams.
 
-I have a PhD in Network Security with 7+ years of experience in pan-european research projects, and I am the author of several international research papers, patents in network performance monitoring and search relevancy, and two books on network attack injection.
+I have a strong background in backend and distributed systems, including a PhD in Network Security and 7+ YoE in pan-european research projects, and I am the author of several international research papers, patents in network performance monitoring and search relevancy, and two books on network attack injection.
