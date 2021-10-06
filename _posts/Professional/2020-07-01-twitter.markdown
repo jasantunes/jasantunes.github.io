@@ -1,0 +1,24 @@
+---
+layout: default
+category: Professional
+img: twitter.jpg
+title: Twitter
+description: |
+  [Twitter](https://www.twitter.com/) is a microblogging and social networking service with hundreds of millions of monthly active users. At the Notifications Infrastructure team, we process up to hundreds of billions of notifications a day and are the service-of-record for email addresses and phone numbers at Twitter.
+---
+
+<div class="roles">
+  <ul>
+    <li><span class="highlight">Engineering Manager<span class="btn-xs">(July 2020 – Present)</span></span>
+      <input type="checkbox" class="read-more-state" id="post-twitter-1" />
+      <label for="post-twitter-1" class="btn-link btn-xs read-more-trigger"></label>
+      <div class="read-more-target">
+        <ul>
+          <li>Manage high-performing backend engineering team.</li>
+          <li>Responsible for the platform and services that deliver mobile and browser push notifications, emails and SMS to Twitter users.</li>
+          <li>Partner with other teams and departments (Product, Relevance, Mobile Client, Testing).</li>
+        </ul>
+      </div>
+  </li>
+  </ul>
+</div>
