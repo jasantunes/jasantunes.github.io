@@ -262,6 +262,23 @@ p.copyright {
 }
 
 .highlight {
-    border: 3px solid #a94442;
-    border-radius: 20px;
+    margin: 0 -0.4em;
+    padding: 0.1em 0.4em;
+    border-radius: 0.8em 0.3em;
+    background: transparent;
+    background-image: linear-gradient(to right,
+            rgba(255, 225, 0, 0.1),
+            rgba(255, 225, 0, 0.7) 4%,
+            rgba(255, 225, 0, 0.3));
+    -webkit-box-decoration-break: clone;
+    box-decoration-break: clone;
+}
+
+
+.card {
+    border-radius: 10px;
+    background: #f2f2f2;
+    margin: 10px;
+    padding: 5px 20px 5px 30px;
+    /* display: block; */
 }

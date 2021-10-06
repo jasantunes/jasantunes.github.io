@@ -33,22 +33,24 @@
                 <div class="section-heading-spacer"></div>
                 <div class="clearfix"></div>
 
-                <h2 class="section-heading">{{ post.title }}
-                    {% assign badges = post.badges | split: ", " %}
-                    {% for badge in badges %}
-                    <span class="badge badge-pill badge-default">{{ badge }}</span>
-                    {% endfor %}
-                </h2>
+                <div class="card shadow">
+                    <h2 class="section-heading">{{ post.title }}
+                        {% assign badges = post.badges | split: ", " %}
+                        {% for badge in badges %}
+                        <span class="badge badge-pill badge-default">{{ badge }}</span>
+                        {% endfor %}
+                    </h2>
 
-                <div class="section-intro hyphenate">
-                    {% if post.img != undefined %}
-                    <img class="{{css_image}} img-responsive shadow" src="img/{{ include.category | downcase }}/{{ post.img }}" alt="">
-                    {% endif %}
+                    <div class="section-intro hyphenate">
+                        {% if post.img != undefined %}
+                        <img class="{{css_image}} img-responsive shadow" src="img/{{ include.category | downcase }}/{{ post.img }}" alt="">
+                        {% endif %}
 
-                    {{ post.description | markdownify}}
+                        {{ post.description | markdownify}}
+                    </div>
+
+                    <div class="lead">{{ post.content }}</div>
                 </div>
-
-                <div class="lead">{{ post.content }}</div>
             </div>
         </div>
 
