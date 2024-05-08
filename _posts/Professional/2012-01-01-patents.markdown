@@ -1,7 +1,7 @@
 ---
 layout: default
-category: Publications
-title: Patents
+category: Professional
+title: 🪪 Patents
 description: |
 ---
 
