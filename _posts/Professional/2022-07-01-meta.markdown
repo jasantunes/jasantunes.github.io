@@ -1,0 +1,23 @@
+---
+layout: default
+category: Professional
+img: meta.jpg
+title: Meta
+description: |
+  [Meta Platforms](https://www.meta.com/) (formerly named Facebook, Inc) is an multinational technology conglomerate that owns and operates Facebook, Instagram, Threads, and WhatsApp, among other products and services. At Meta, I worked in the Remote Presence team and AI Infra.
+---
+
+<div class="roles">
+  <ul>
+    <li><span class="highlight">Software Engineer (E6)<span class="btn-xs">(July 2022 – Present)</span></span>
+      <input type="checkbox" class="read-more-state" id="post-meta-1" />
+      <label for="post-meta-1" class="btn-link btn-xs read-more-trigger"></label>
+      <div class="read-more-target">
+        <ul>
+          <li>AI Infra: ML models post-training framework (python, C++)</li>
+          <li>Remote Presence & WhatsApp: VoIP signaling, infra services in PoPs for call setup (C++, backend web-services).</li>
+        </ul>
+      </div>
+  </li>
+  </ul>
+</div>

@@ -9,7 +9,7 @@ description: |
 
 <div class="roles">
   <ul>
-    <li><span class="highlight">Engineering Manager<span class="btn-xs">(July 2020 – Present)</span></span>
+    <li><span class="highlight">Engineering Manager<span class="btn-xs">(July 2020 – July 2022)</span></span>
       <input type="checkbox" class="read-more-state" id="post-twitter-1" />
       <label for="post-twitter-1" class="btn-link btn-xs read-more-trigger"></label>
       <div class="read-more-target">
